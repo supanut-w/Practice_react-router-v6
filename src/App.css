@@ -1,0 +1,18 @@
+.myskills {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.myskills li {
+  margin: 0 1rem;
+}
+
+.footer-container {
+  width: 100%;
+  padding: 1rem;
+  background-color: #333;
+  color: white;
+  position: fixed;
+  bottom: 0;
+}
